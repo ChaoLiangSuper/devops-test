@@ -32,5 +32,11 @@ At the root folder, there are two files `ci.sh` and `cd.sh`. Those are the files
 1. Make sure you delete all untrack files, and zip it
 1. Send the zip file to us
 
+OR
+
+1. Fork the repo
+1. Create a new branch and add your commit in
+1. Open a PR back to the main repo
+
 ## Final word
 Good luck and hope you enjoy it.
