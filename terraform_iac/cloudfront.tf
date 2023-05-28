@@ -1,5 +1,6 @@
 locals {
   s3_origin_id = "myS3Origin"
+  cfn_name = aws_cloudfront_distribution.cf_distribution.arn
 }
 
 resource "aws_cloudfront_origin_access_control" "origin_control" {
